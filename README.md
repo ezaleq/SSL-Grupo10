@@ -18,7 +18,7 @@ Repositorio para entrega de TPs grupales para la materia "Sintaxis y semántica 
             <td>Ezequiel Alejandro</td>
             <td>Quevedo</td>
             <td>176.060-9</td>
-            <td><a>https://github.com/ezaleq</a></td>
+            <td><a href="https://github.com/ezaleq">ezaleq</a></td>
         </tr>
     </tbody>
 </table>
