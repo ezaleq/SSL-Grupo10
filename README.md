@@ -24,7 +24,7 @@ Repositorio para entrega de TPs grupales para la materia "Sintaxis y semántica 
             <td><a href="https://github.com/ArielRotolo">ArielRotolo</a></td>
         </tr>
         <tr>
-            <td>Alexander Aracen</td>
+            <td>Alexander Aracena</td>
             <td>150565-8</td>
             <td><a href="https://github.com/angraween">angraween</a></td>
         </tr>
