@@ -8,17 +8,30 @@ Repositorio para entrega de TPs grupales para la materia "Sintaxis y semántica 
 ## Datos de los estudiantes
 <table>
     <thead>
-        <th>Nombre</th>
-        <th>Apellido</th>
+        <th>Nombre y apellido</th>
         <th>Legajo</th>
         <th>Usuario GitHub</th>
     </thead>
     <tbody>
         <tr>
-            <td>Ezequiel Alejandro</td>
-            <td>Quevedo</td>
+            <td>Ezequiel Alejandro Quevedo</td>
             <td>176.060-9</td>
             <td><a href="https://github.com/ezaleq">ezaleq</a></td>
+        </tr>
+        <tr>
+            <td>Ariel Rotolo Wulff</td>
+            <td>1643551</td>
+            <td><a href="https://github.com/ArielRotolo">ArielRotolo</a></td>
+        </tr>
+        <tr>
+            <td>Alexander Aracen</td>
+            <td>150565-8</td>
+            <td><a href="https://github.com/angraween">angraween</a></td>
+        </tr>
+        <tr>
+            <td>Francisco Fidel Lema Estevez</td>
+            <td>176165-1</td>
+            <td><a href="https://github.com/Francisco1106">Francisco1106</a></td>
         </tr>
     </tbody>
 </table>
