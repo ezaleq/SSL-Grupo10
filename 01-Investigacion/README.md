@@ -12,6 +12,5 @@
 * Buscar las BNF del lenguaje elegido.
 
 ## Links
-* [Link al documento.](linkpdf)
-* [Link a la presentación.](linkppt)
+* [Link a la presentación.](https://docs.google.com/presentation/d/1ncyE3qzpHvKpriNK08rl2Qc8sehhZTYM/edit?usp=sharing&ouid=116672820996334605619&rtpof=true&sd=true)
 
