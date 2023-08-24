@@ -33,5 +33,10 @@ Repositorio para entrega de TPs grupales para la materia "Sintaxis y semántica 
             <td>176165-1</td>
             <td><a href="https://github.com/Francisco1106">Francisco1106</a></td>
         </tr>
+        <tr>
+            <td>Tomás Iván Barbieri</td>
+            <td>209.945-7</td>
+            <td><a href="https://github.com/tomas77745">tomas77745</a></td>
+        </tr>
     </tbody>
 </table>
